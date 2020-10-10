@@ -15,3 +15,6 @@ Working with the Colorado Board of Elections, I am working on the following task
 * Software: Python 3.7.6, Visual Studio Code 1.49.3
 
 ## Summary 
+* There were 369,711 cast in this election
+* The candidates were:
+  * Charles Casper Stockham
