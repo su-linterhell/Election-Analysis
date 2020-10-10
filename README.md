@@ -18,3 +18,7 @@ Working with the Colorado Board of Elections, I am working on the following task
 * There were 369,711 cast in this election
 * The candidates were:
   * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
+* The candidate results were:
+ * Charles Casper Stockham recieved 23.0% of votes with 85,213 votes
