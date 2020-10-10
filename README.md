@@ -21,4 +21,11 @@ Working with the Colorado Board of Elections, I am working on the following task
   * Diana DeGette
   * Raymon Anthony Doane
 * The candidate results were:
- * Charles Casper Stockham recieved 23.0% of votes with 85,213 votes
+  * Charles Casper Stockham recieved 23.0% of votes with 85,213 votes
+  * Diana DeGette received 73.8% of votes with 272,892 votes
+  * Raymon Anthony Doane received 3.1% of votes with 11,606 votes
+* The winner of the election was:
+  * Diana DeGette received 73.8% of votes with 272,892 votes
+
+## Challenge Overview
+## Challenge Summary
