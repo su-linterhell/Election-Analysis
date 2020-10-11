@@ -1,20 +1,24 @@
 # Election-Analysis
 Looking at voter data to understand how candidates did and who won. 
 
-## Project Overview 
+## Overview of Election Audit  
 Working with the Colorado Board of Elections, I am working on the following tasks to complete an election audot of a recent local congressional election. The following is what this analysis goes over:
 
 1. Total number of votes casted
-2. A complete list of candidates who received votes
-3. Total number of votes each candidate received
-4. Percentage of votes each candidate won
-5. The winner of the election based on popular vote
+2. Complete list of counties where votes were casted
+3. Total number of votes casted in each county
+4. Percentage of votes that were casted in each county 
+5. Largest County Turnout
+6. A complete list of candidates who received votes
+7. Total number of votes each candidate received
+8. Percentage of votes each candidate won
+9. The winner of the election based on popular vote
 
 ## Resouces 
 * Data Source: election_results.csv
 * Software: Python 3.7.6, Visual Studio Code 1.49.3
 
-## Summary 
+## Election-Audit Results  
 * There were 369,711 cast in this election
 * The candidates were:
   * Charles Casper Stockham
