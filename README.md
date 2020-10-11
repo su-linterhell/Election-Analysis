@@ -20,11 +20,11 @@ Working with the Colorado Board of Elections, I am working on the following task
 
 ## Election-Audit Results  
 * There were 369,711 cast in this election
-* The candidates were:
+* Election Candidates:
   * Charles Casper Stockham
   * Diana DeGette
   * Raymon Anthony Doane
-* The counties:
+* Voter Counties:
   * Jefferson
   * Denver
   * Arapahoe
