@@ -1,5 +1,5 @@
 # Election-Analysis
-Looking at voter data to understand how candidates did and who won. 
+Using Python to look at voter data to understand how candidates did and who won. 
 
 ## Overview of Election Audit  
 Working with the Colorado Board of Elections, I am working on the following tasks to complete an election audot of a recent local congressional election. The following is what this analysis goes over:
